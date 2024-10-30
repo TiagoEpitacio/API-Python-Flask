@@ -17,6 +17,11 @@ livros = [
         'id': 3,
         'titulo': 'O verdadeiro Evangelho',
         'autor': 'Paul Washer'
+    },
+    {
+        'id': 4,
+        'titulo': 'Até que nada mais importe',
+        'autor': 'Luciano Subirá'
     }
 ]
 
