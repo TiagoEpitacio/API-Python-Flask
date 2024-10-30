@@ -23,6 +23,11 @@ livros = [
         'titulo': 'Até que nada mais importe',
         'autor': 'Luciano Subirá'
     }
+      {
+        'id': 5,
+        'titulo': 'Base de conhecimento em teste de software',
+        'autor': 'Ricardo Cristalli'
+    }
 ]
 
 @app.route('/livros')
